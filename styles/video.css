@@ -1,0 +1,22 @@
+
+header{
+background-color: aliceblue;
+border: 10px solid rgb(58, 56, 30);
+border-radius: 10px;
+box-shadow: 10px 10px 10px rgb(73, 73, 73);
+    background-color: antiquewhite;
+    text-align: center;
+    
+
+}
+.div{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    border: 10px solid rgb(58, 56, 30);
+    box-shadow: 10px 10px 10px rgb(73, 73, 73);
+   
+    text-align: center;
+
+}
